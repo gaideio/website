@@ -1,4 +1,4 @@
-<img src="https://mma.prnewswire.com/media/1513369/Educative_Logo.jpg"  width="600" height="300">
+<img src="./assets/brand.png"  width="300">
 ## This is the repo for the vguide website.
 
 ### What is vguide?
