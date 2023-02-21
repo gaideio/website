@@ -1,3 +1,4 @@
+!(brand.png)[./assets/brand.png]
 ## This is the repo for the vguide website.
 
 ### What is vguide?
