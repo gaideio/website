@@ -1,5 +1,3 @@
-# README
-
 ## This is the repo for the vguide website.
 
 ## What is vguide?
